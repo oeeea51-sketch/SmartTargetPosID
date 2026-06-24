@@ -1,0 +1,8 @@
+{
+    "geode": "2.0.0-beta.1",
+    "id": "oeeea51.smarttargetposid",
+    "version": "1.0.0",
+    "name": "SmartTargetPosID",
+    "developer": "oeeea51",
+    "description": "A Geode mod for Geometry Dash that speeds up level editing. It automatically pastes the Group ID of your selected object into the Move trigger's Target ID field when you click Confirm."
+}
