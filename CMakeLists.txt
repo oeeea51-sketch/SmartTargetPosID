@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.25)
-project(SmartTargetPosID VERSION 1.0.0 LANGUAGES CXX)
-set(GEODE_CUSTOM_SRC_DIR .)
-find_package(geode REQUIRED)
-add_geode_mod(${PROJECT_NAME} ${PROJECT_VERSION} mod.json)
-target_sources(${PROJECT_NAME} PRIVATE main.cpp)
